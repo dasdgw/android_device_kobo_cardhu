@@ -72,6 +72,7 @@ lib/libardrv_dynamic.so
 lib/libaudioavp.so
 lib/libcgdrv.so
 lib/libcplconnectclient.so
+lib/libinvensense.so
 lib/libmllite.so
 lib/libmplmpu.so
 lib/libnvapputil.so
